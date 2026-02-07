@@ -4,6 +4,7 @@ site_url: https://IceCubeQq.gitgub.io/MkDocsTest/
 nav:
   - Home: index.md
   - About: about.md
+  - Acquaintance: acquaintance.md
 
 plugins:
   - search:
@@ -11,7 +12,6 @@ plugins:
 
 theme:
   name: material
-#  custom_dir: docs/_theme/overrides
   palette:
 
     - media: "(prefers-color-scheme)"
